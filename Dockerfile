@@ -8,7 +8,7 @@
 
 
 # Base system is the latest LTS version of Ubuntu.
-from   tensorflow/tensorflow:latest-gpu
+from   tensorflow/tensorflow:latest
 
 
 # Make sure we don't get notifications we can't answer during building.
